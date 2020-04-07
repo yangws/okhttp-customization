@@ -144,7 +144,7 @@
 	    <version>1.15.0</version> 
 	    <type>jar</type> 
 	    <scope>system</scope> 
-	    <systemPath>${basedir}/lib/okio-1.15.0.jar</systemPath> 
+	    <systemPath>${basedir}/lib/customio-1.15.0.jar</systemPath>
 	  </dependency>
 
     </dependencies>
